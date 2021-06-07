@@ -1,4 +1,4 @@
-### Hi! I'm Barath!  👋
+### Hi there! I'm Barath!  👋
 
 
 - 🔭 I’m currently a Software Engineer at Horizon AI (Backend), Software Engineering Intern at PointClickCare! 
