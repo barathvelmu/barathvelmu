@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/bbarathV/bbarathV/master/readme_header.png "Header")](https://barathvelmu.medium.com)
+![Linkedin Banner](https://user-images.githubusercontent.com/69721558/121256259-5acece00-c87a-11eb-897a-aca6d379dd9f.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
