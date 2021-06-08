@@ -15,6 +15,8 @@ On my free time, I write blogs! You can find my articles at, [barathvelmu.medium
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
