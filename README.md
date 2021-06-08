@@ -1,6 +1,6 @@
 ![Linkedin Banner-2](https://user-images.githubusercontent.com/69721558/121256589-b6995700-c87a-11eb-9822-2d9b214bc0a2.png)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Barath Velmurugan! I'm a ***Student***, ***Software Engineer***, and ***Entrepreneur***! I live in Canada and am currently working at PointClickCare as a Software Engineering Intern. Fun fact, I love rapping (as fast as Eminem) and playing basketball :) 
 
