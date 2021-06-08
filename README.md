@@ -1,4 +1,4 @@
-![Linkedin Banner](https://user-images.githubusercontent.com/69721558/121256259-5acece00-c87a-11eb-897a-aca6d379dd9f.png)
+![Linkedin Banner-2](https://user-images.githubusercontent.com/69721558/121256589-b6995700-c87a-11eb-9822-2d9b214bc0a2.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
