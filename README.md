@@ -40,7 +40,7 @@ On my free time, I write blogs! You can find my articles at, [barathvelmu.medium
 - [More Than Just Writing Code](https://barathvelmu.medium.com/more-than-just-writing-code-1f87a7dcc783)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://barathvelmu.medium.com)
 
 ---
 
