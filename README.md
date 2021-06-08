@@ -1,6 +1,6 @@
 ### Hi there, I'm Barath! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/@BarathV03698131?style=social)](https://twitter.com/BarathV03698131)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBarathV03698131)](https://twitter.com/BarathV03698131)
 
 ## I'm a Student, Engineer, and Entrepreneur!!
 
