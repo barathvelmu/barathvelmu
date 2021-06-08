@@ -24,7 +24,7 @@ On my free time, I write blogs! You can find my articles at, [barathvelmu.medium
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bbarathV&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Barath's GitHub Stats" />
 </a>
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Multiple-page application or Single-page application?](https://barathvelmu.medium.com/multiple-page-application-or-single-page-application-2313a3a1d699)
