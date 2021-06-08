@@ -27,6 +27,8 @@ On my free time, I write blogs! You can find my articles at, [barathvelmu.medium
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AmazonWebServices-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+
 
 ## 📕 Latest Blog Posts
 
