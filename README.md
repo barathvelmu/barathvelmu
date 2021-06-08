@@ -2,7 +2,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Barath Velmurugan! I'm a ***Student***, ***Software Engineer***, and ***Entrepreneur***! I'm living in Canada and am currently working at PointClickCare as a Software Engineering Intern. I am usually hanging around on [Twitter](https://twitter.com/BarathV03698131), or on [LinkedIn](https://www.linkedin.com/in/barathvelmu/) 🚀
+My name is Barath Velmurugan! I'm a ***Student***, ***Software Engineer***, and ***Entrepreneur***! I live in Canada and am currently working at PointClickCare as a Software Engineering Intern. I am usually hanging around on [Twitter](https://twitter.com/BarathV03698131), or on [LinkedIn](https://www.linkedin.com/in/barathvelmu/) 🚀
+
+Fun fact: I love rapping and I produce music on a software called Fl Studio! Also LOVE playing basketball :)
 
 ## &#x270d; Blog & Writing
 
