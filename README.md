@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/bbarathV/bbarathV/master/readme_header.png "Header")](https://barathvelmu.medium.com)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/bbarathV/bbarathV/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Barath Velmurugan! I'm a ***Student***, ***Software Engineer***, and ***Entrepreneur***! I live in Canada and am currently working at PointClickCare as a Software Engineering Intern. Fun fact, I love rapping (as fast as Eminem) and playing basketball :) 
 
