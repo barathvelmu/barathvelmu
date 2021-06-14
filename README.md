@@ -7,10 +7,6 @@ My name is Barath Velmurugan! I'm a ***Student***, ***Software Engineer***, and 
 I am usually hanging around on [Twitter](https://twitter.com/BarathV03698131), or on [LinkedIn](https://www.linkedin.com/in/barathvelmu/) 🚀
 
 
-## &#x270d; Blog & Writing
-
-On my free time, I write blogs! You can find my articles at, [barathvelmu.medium.com](https://barathvelmu.medium.com).
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-zsh&logoColor=white&color=2bbc8a)
