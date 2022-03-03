@@ -2,7 +2,7 @@
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Barath! I'm a ***Computational Mathematics + Statistics Student*** and ***Software Engineer***! I am currently working at PointClickCare as a Software Engineering Intern. Fun fact, I love rapping (as fast as Eminem) and playing basketball :) 
+My name is Barath! I'm a ***Statistics and Computer Science Student*** and ***Software Engineer***! I am currently working at PointClickCare as a Software Engineering Intern. Fun fact, I love rapping (as fast as Eminem) and playing basketball :) 
 
 I am usually hanging around on [Twitter](https://twitter.com/BarathV03698131), or on [LinkedIn](https://www.linkedin.com/in/barathvelmu/) 🚀
 
