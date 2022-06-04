@@ -1,6 +1,6 @@
 ![Linkedin Banner-2](https://user-images.githubusercontent.com/69721558/121256589-b6995700-c87a-11eb-9822-2d9b214bc0a2.png)
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! 👋🏽
 
 My name is Barath! I'm a ***Statistics + Computer Science Student*** and ***Software Engineer***! I am currently working at PointClickCare as a Software Engineering Intern. I love helping people (e.g., donations), listening to music, and playing basketball :) 
 
