@@ -2,7 +2,7 @@
 
 # Hi there! 👋🏽
 
-My name is Barath! I'm a ***Statistics + Computer Science Student*** and ***Software Engineer***! I am currently working at PointClickCare as a Software Engineering Intern. I love helping people (e.g., donations), listening to music, and playing basketball :) 
+My name is Barath! I'm a ***Statistics + Computer Science Student*** and ***Software Engineer***! I am currently working at Manulife as a Software Engineering Intern - Salesforce. I love helping people (e.g., donations), listening to music, and playing basketball :) 
 
 Here is my personal portfolio: https://barathvelmu.github.io/!
 
