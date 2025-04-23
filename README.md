@@ -4,10 +4,7 @@
 
 My name is Barath! I'm a ***Statistics + Computer Science Student*** and ***Software Engineer***! I love helping people (e.g., donations), listening to music, and playing basketball :) 
 
-Here is my personal portfolio: https://barathvelmu.github.io/!
-
-I am usually hanging around on [LinkedIn](https://www.linkedin.com/in/barathvelmu/) or [Twitter](https://twitter.com/barathvelmu) 🚀
-
+Here is my personal portfolio: https://barathvelmu.github.io/ and LinkedIn: [link](https://www.linkedin.com/in/barathvelmu/)!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=2bbc8a)
