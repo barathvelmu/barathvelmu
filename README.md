@@ -11,6 +11,7 @@ My name is Barath! Here is my personal portfolio: [web.mit.edu/barathv/cv/](web.
 ## 📕 Past Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Deterministic Voice Intelligence](https://barathvelmu.medium.com/engineering-deterministic-voice-intelligence-dvi-a-passion-project-b35fb3f646b5) (NEW, 2025)
 - [Multiple-page application or Single-page application?](https://barathvelmu.medium.com/multiple-page-application-or-single-page-application-2313a3a1d699)
 - [Machine Learning?](https://barathvelmu.medium.com/machine-learning-f0c67b370d3e)
 - [Beauty of Algorithms](https://barathvelmu.medium.com/beauty-of-algorithms-e989989aebb7)
