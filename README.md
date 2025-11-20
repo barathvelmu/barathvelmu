@@ -2,7 +2,7 @@
 
 # Hi there! 👋🏽
 
-My name is Barath! Here is my personal portfolio: https://barathvelmu.github.io/ and [LinkedIn](https://www.linkedin.com/in/barathvelmu/)!
+My name is Barath! Here is my personal portfolio: [web.mit.edu/barathv/cv/](web.mit.edu/barathv/cv/) and [LinkedIn](https://www.linkedin.com/in/barathvelmu/)!
 
 ## 🔧 Technologies & Tools
 **Languages:** Python, Julia, Java, Pandas, NumPy, Groovy, TypeScript, SQL, Bash, YAML  
