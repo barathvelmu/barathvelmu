@@ -1,22 +1,11 @@
 ![Linkedin Banner-2](https://user-images.githubusercontent.com/69721558/121256589-b6995700-c87a-11eb-9822-2d9b214bc0a2.png)
 
-# Hi there! 👋🏽
+# Hello! 👋🏽
 
-My name is Barath! Here is my personal portfolio: [web.mit.edu/barathv/cv/](web.mit.edu/barathv/cv/) and [LinkedIn](https://www.linkedin.com/in/barathvelmu/)!
+My name is Barath. I am a Master's student at MIT and previously studied at the University of Waterloo. 
 
-## My writing
+Here is my personal portfolio: [web.mit.edu/barathv/cv/](web.mit.edu/barathv/cv/) and [LinkedIn](https://www.linkedin.com/in/barathvelmu/).
 
-<!-- BLOG-POST-LIST:START -->
-- [Engineering Deterministic Voice Intelligence](https://barathvelmu.medium.com/engineering-deterministic-voice-intelligence-dvi-a-passion-project-b35fb3f646b5) (NEW, 2025)
-- [Multiple-page application or Single-page application?](https://barathvelmu.medium.com/multiple-page-application-or-single-page-application-2313a3a1d699)
-- [Machine Learning?](https://barathvelmu.medium.com/machine-learning-f0c67b370d3e)
-- [Beauty of Algorithms](https://barathvelmu.medium.com/beauty-of-algorithms-e989989aebb7)
-- [From A to Z](https://barathvelmu.medium.com/what-is-sdlc-c23501a3593b)
-- [More Than Just Writing Code](https://barathvelmu.medium.com/more-than-just-writing-code-1f87a7dcc783)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://barathvelmu.medium.com)
-
----
+Feel free to checkout my writing: [Substack](https://substack.com/@barathvelmu) and [Medium](https://barathvelmu.medium.com/).
 
 
