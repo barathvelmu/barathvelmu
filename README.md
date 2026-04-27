@@ -4,11 +4,7 @@
 
 My name is Barath! Here is my personal portfolio: [web.mit.edu/barathv/cv/](web.mit.edu/barathv/cv/) and [LinkedIn](https://www.linkedin.com/in/barathvelmu/)!
 
-## 🔧 Technologies & Tools
-**Languages:** Python, Julia, Java, Pandas, NumPy, Groovy, TypeScript, SQL, Bash, YAML  
-**Tools:** PySpark, Databricks, Azure, Kafka, Gurobi, Terraform, Git, Spring, ReactJS, Django, PostgreSQL, MongoDB
-
-## 📕 Past Blog Posts
+## My writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Engineering Deterministic Voice Intelligence](https://barathvelmu.medium.com/engineering-deterministic-voice-intelligence-dvi-a-passion-project-b35fb3f646b5) (NEW, 2025)
